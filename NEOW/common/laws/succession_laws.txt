@@ -123,6 +123,22 @@ succession_laws = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
 				temporary = yes
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
+				title = d_cao_dai
+				title = k_katoliko
+				title = k_aglipayan
 			}
 			
 			rebel = no
@@ -131,7 +147,6 @@ succession_laws = {
 				holder_scope = { is_feudal = yes }
 				holder_scope = { is_tribal = yes }
 			}
-			is_primary_type_title = no
 			NOT = { holder_scope = { government = oligarchic_republic } }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = confederation_government } }
@@ -239,6 +254,22 @@ succession_laws = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
 				temporary = yes
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
+				title = d_cao_dai
+				title = k_katoliko
+				title = k_aglipayan
 			}
 			
 			rebel = no
@@ -247,7 +278,6 @@ succession_laws = {
 				holder_scope = { is_feudal = yes }
 				holder_scope = { is_tribal = yes }
 			}
-			is_primary_type_title = no
 			NOT = { holder_scope = { government = oligarchic_republic } }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = confederation_government } }
@@ -398,7 +428,6 @@ succession_laws = {
 				holder_scope = { is_feudal = yes }
 				holder_scope = { is_tribal = yes }
 			}
-			is_primary_type_title = no
 			NOT = { holder_scope = { government = oligarchic_republic } }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = confederation_government } }
@@ -540,6 +569,22 @@ succession_laws = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
 				temporary = yes
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
+				title = d_cao_dai
+				title = k_katoliko
+				title = k_aglipayan
 			}
 			OR = {
 				AND = {
@@ -550,7 +595,6 @@ succession_laws = {
 				holder_scope = { is_patrician = yes }
 			}
 			
-			is_primary_type_title = no
 			
 			OR = {
 				NOT = { tier = baron }
@@ -599,6 +643,19 @@ succession_laws = {
 							has_law = crown_authority_4
 						}
 					}
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
 				}
 			}
 			custom_tooltip = {
@@ -706,7 +763,6 @@ succession_laws = {
 						is_tribal_type_title = yes
 						temporary = yes
 					}
-					is_primary_type_title = no
 					OR = {
 						AND = {
 							tier = baron
@@ -716,10 +772,22 @@ succession_laws = {
 					}
 				}
 				has_title_flag = alternate_byz
-				title = d_yersenism
-				title = e_juche
 				title = k_bakufu
 				title = k_pretender_bakufu
+				title = d_yersenism
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
 			}
 			NOT = { holder_scope = { government = oligarchic_republic } }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
@@ -776,7 +844,19 @@ succession_laws = {
 							has_law = crown_authority_4
 						}
 					}
-					title = e_juche
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
 				}
 			}
 			custom_tooltip = {
@@ -902,8 +982,23 @@ succession_laws = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
 				temporary = yes
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
+				title = d_cao_dai
+				title = k_katoliko
+				title = k_aglipayan
 			}
-			is_primary_type_title = no
 			NOT = { tier = baron }
 			holder_scope = {
 				OR = {
@@ -927,11 +1022,26 @@ succession_laws = {
 			}
 		}
 		allow = {
+			OR = {
 			custom_tooltip = {
 				text = not_forced_tt
 				hidden_tooltip = {
 					holder_scope = { NOT = { has_character_flag = liege_forced_succ_law } }
 				}
+			}
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
 			}
 		}
 		effect = {
@@ -993,10 +1103,6 @@ succession_laws = {
 				is_patrician = no
 				
 				OR = {
-					NOT = { religion_group = pagan_group }
-					is_reformed_religion = yes
-					religion = hellenic_pagan
-					religion = novelist
 					has_law = succession_voting_power_1
 					has_law = succ_feudal_elective # Keep it even if you revoke Full Council Authority
 					has_law = succ_hre_elective
@@ -1017,8 +1123,23 @@ succession_laws = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
 				temporary = yes
+				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
+				title = d_cao_dai
+				title = k_katoliko
+				title = k_aglipayan
 			}
-			is_primary_type_title = no
 			NOT = { tier = baron }
 			holder_scope = {
 				OR = {
@@ -1119,7 +1240,6 @@ succession_laws = {
 				is_tribal_type_title = yes
 				temporary = yes
 			}
-			is_primary_type_title = no
 			NOT = { holder_scope = { government = oligarchic_republic } }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = confederation_government } }
@@ -1204,7 +1324,6 @@ succession_laws = {
 				is_tribal_type_title = yes
 				temporary = yes
 			}
-			is_primary_type_title = no
 			NOT = { tier = baron }
 			OR = {
 				holder_scope = {
@@ -1346,7 +1465,6 @@ succession_laws = {
 				is_tribal_type_title = yes
 				temporary = yes
 			}
-			is_primary_type_title = no
 			OR = {
 				AND = {
 					tier = baron
@@ -1536,7 +1654,6 @@ succession_laws = {
 							}
 						}
 					}
-					is_primary_type_title = no
 				}
 			}
 			NAND = { 
@@ -1604,7 +1721,6 @@ succession_laws = {
 							}
 						}
 					}
-					is_primary_type_title = no
 				}
 			}
 			NOT = { holder_scope = { government = oligarchic_republic } }
@@ -1670,7 +1786,6 @@ succession_laws = {
 							}
 						}
 					}
-					is_primary_type_title = no
 				}
 			}
 			NOT = { holder_scope = { government = oligarchic_republic } }
@@ -1828,6 +1943,18 @@ succession_laws = {
 				title = k_serbia_triumvirate
 				title = d_armenianapostolic
 				title = e_juche
+				title = d_el_shaddai
+				title = e_legalist
+				title = e_taoist
+				title = e_white_lotus
+				title = east_brethren
+				title = e_wuxia
+				title = e_indonesia
+				title = e_xianxia
+				title = e_tridemism
+				title = e_hcm
+				title = e_dvipantara
+				title = e_ramadi
 				title = d_cao_dai
 				title = k_katoliko
 				title = k_aglipayan
@@ -1934,7 +2061,6 @@ succession_laws = {
 					has_landed_title = e_aegean
 					has_landed_title = e_kedah
 					has_landed_title = k_kawthoolei
-					has_landed_title = k_kimberlian_confederacy
 				}
 				OR = {
 					NOR = { 
@@ -1966,7 +2092,11 @@ succession_laws = {
 					}
 				}
 			}
-			is_primary_type_title = no
+			OR = {
+				is_landless_type_title = no
+				is_tribal_type_title = yes
+				temporary = yes
+			}
 			NOT = { tier = baron }
 			NOT = { holder_scope = { government = feudal_government } }
 			NOT = { holder_scope = { government = agrarian_feudal_government } }
@@ -2021,7 +2151,6 @@ succession_laws = {
 					}
 				}
 			}
-			is_primary_type_title = no
 			NOT = { holder_scope = { government = oligarchic_republic } }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = confederation_government } }
@@ -2172,7 +2301,6 @@ gender_laws = {
 				}
 			}
 			
-			is_primary_type_title = no
 		}
 		
 		effect = {
@@ -2315,7 +2443,6 @@ gender_laws = {
 			OR = {
 				AND = {
 					is_landless_type_title = no
-					is_primary_type_title = no
 				}
 				holder_scope = {
 					religion = bahai
