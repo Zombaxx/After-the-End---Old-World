@@ -1024,7 +1024,7 @@ narrative_event = {
 		name = bloodlines9C
 		trigger = {
 			religion_group = christian
-			NOT = [religion = xinjiao]
+			NOT = { religion = xinjiao }
 		}
 	}
 	option = {
